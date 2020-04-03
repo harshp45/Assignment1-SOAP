@@ -37,8 +37,8 @@
         </dependency>
         <dependency>
             <groupId>com.oracle</groupId>
-            <artifactId>ojdbc7</artifactId>
-            <version>12.1.0.2</version>
+            <artifactId>ojdbc10</artifactId>
+            <version>19.3.0.0</version>
         </dependency>
         <dependency>
             <groupId>javax</groupId>
