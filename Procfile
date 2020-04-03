@@ -1,0 +1,1 @@
+web: java -Dswarm.http.port=$PORT -jar target/Assignment1_SOAP-1.0-SNAPSHOT-thorntail
