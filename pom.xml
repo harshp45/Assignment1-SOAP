@@ -35,13 +35,11 @@
           <artifactId>webservices</artifactId>
           <version>2.6.0.Final</version>
         </dependency>
-
-
         <dependency>
-		<groupId>com.oracle</groupId>
-		<artifactId>ojdbc7</artifactId>
-		<version>12.2.0.1</version>
-	</dependency>
+            <groupId>com.oracle</groupId>
+            <artifactId>ojdbc7</artifactId>
+            <version>12.1.0.2</version>
+        </dependency>
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
