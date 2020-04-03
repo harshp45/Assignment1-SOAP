@@ -1,0 +1,8 @@
+com\mycompany\assignment1_soap\entities\exceptions\NonexistentEntityException.class
+com\mycompany\assignment1_soap\entities\exceptions\PreexistingEntityException.class
+com\mycompany\assignment1_soap\entities\CinemasJpaController.class
+com\mycompany\assignment1_soap\entities\exceptions\IllegalOrphanException.class
+servlet\CinemaUpload.class
+com\mycompany\assignment1_soap\JAXRSConfiguration.class
+com\mycompany\assignment1_soap\entities\Cinemas.class
+com\mycompany\assignment1_soap\resources\JavaEE8Resource.class
